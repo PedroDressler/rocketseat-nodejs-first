@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "27268e2b-15b3-4ab1-bd8b-049ad6732126",
+      "name": "Pedro",
+      "email": "pedro@email.com"
+    },
+    {
+      "id": "504520f2-a973-48cc-a9c4-8f0c75fad195",
+      "name": "Ana",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "4981bdd3-5bed-4b24-b0fe-14a189607c2e",
+      "name": "John Doe",
+      "email": "johndoe@email.com"
+    },
+    {
+      "id": "e0b01995-9af7-434f-8342-826772bafe42",
+      "name": "Ana",
+      "email": "ana@gmail.com"
+    }
+  ]
+}
